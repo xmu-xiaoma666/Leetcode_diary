@@ -24,7 +24,7 @@ Hard:
 
 Easy：
 
-[70-爬楼梯](dynamic programming\Climbing Stairs.md)
+[70-爬楼梯](./dynamic programming/Climbing_Stairs.md)
 
 Normal:
 
