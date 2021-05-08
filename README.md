@@ -1,6 +1,6 @@
 # Leetcode_diary
 
-
+## Leetcode is all you need.
 
 ## 日常刷[Leetcode](https://leetcode-cn.com/problemset/all/)的记录
 
@@ -28,7 +28,7 @@ Easy：
 
 Normal:
 
-[nothing](nothing)
+
 
 
 
