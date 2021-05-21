@@ -34,7 +34,9 @@
 
 [面试题 08.01. 三步问题](./dynamic_programming/Three_Steps_Problem_LCCI.md)
 
-[剑指_Offer 42. 连续子数组的最大和.md](./dynamic_programming/连续子数组的最大和.md)
+[剑指_Offer 42. 连续子数组的最大和](./dynamic_programming/连续子数组的最大和.md)
+
+[面试题 17.16. 按摩师](./dynamic_programming/The_Masseuse_LCCI.md)
 ### Normal:
 
 
