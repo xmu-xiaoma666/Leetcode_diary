@@ -28,6 +28,9 @@
 
 [303-区域和检索 - 数组不可变](./dynamic_programming/Immutable.md)
 
+[392- 判断子序列](./dynamic_programming/Is_Subsequence.md)
+
+[746- 使用最小花费爬楼梯](./dynamic_programming/Min-Cost-Climbing-Stairs.md)
 ### Normal:
 
 
