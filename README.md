@@ -23,7 +23,8 @@
 ## 知识点2：动态规划（dynamic programming）
 
 ### 经典：
-[01背包](./dynamic_programming/one-zero-bag,md)
+[01背包](./dynamic_programming/one-zero-bag.md)
+[完全背包](./dynamic_programming/完全背包.md)
 
 
 ### Easy：
