@@ -24,7 +24,13 @@
 
 ### 经典：
 [01背包](./dynamic_programming/one-zero-bag.md)
+
 [完全背包](./dynamic_programming/完全背包.md)
+
+[多重背包问题](./dynamic_programming/多重背包问题1.md)
+
+
+
 
 
 ### Easy：
@@ -43,10 +49,17 @@
 
 [面试题 17.16. 按摩师](./dynamic_programming/The_Masseuse_LCCI.md)
 
+
 ### Normal:
 
 
+[面试题 08.11. 硬币](./dynamic_programming/Coin_LCCI.md)
 
+
+[面试题 08.11. 零钱兑换](./dynamic_programming/零钱兑换.md)
+
+
+[剑指 Offer 14- I. 剪绳子](./dynamic_programming/剪绳子.md)
 
 
 ### Hard:
