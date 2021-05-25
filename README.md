@@ -61,6 +61,10 @@
 
 [剑指 Offer 14- I. 剪绳子](./dynamic_programming/剪绳子.md)
 
+[剑指 Offer 47. 礼物的最大价值](./dynamic_programming/礼物的最大价值.md)
+
+[剑指 Offer 63. 股票的最大利润](./dynamic_programming/股票的最大利润.md)
+
 
 ### Hard:
 
