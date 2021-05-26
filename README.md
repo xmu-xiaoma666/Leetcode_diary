@@ -65,6 +65,12 @@
 
 [剑指 Offer 63. 股票的最大利润](./dynamic_programming/股票的最大利润.md)
 
+[面试题 01.05. 一次编辑](./dynamic_programming/一次编辑.md)
+
+[面试题 08.02. 迷路的机器人](./dynamic_programming/迷路的机器人.md)
+
+
+[300. 最长递增子序列](./dynamic_programming/最长递增子序列.md)
 
 ### Hard:
 
