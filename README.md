@@ -123,7 +123,21 @@
 
 
 
-## 知识点4：数学（math）
+<!-- ## 知识点4：数学（math）
+
+### Easy：
+
+
+
+### Normal:
+
+
+
+### Hard: -->
+
+
+
+## 知识点5：树（tree）
 
 ### Easy：
 
@@ -151,20 +165,6 @@
 [剑指 Offer 68 - II. 二叉树的最近公共祖先](./tree/二叉树的最近公共祖先.md)
 
 [面试题 17.12. BiNode](./tree/BiNode.md)
-
-### Normal:
-
-
-
-### Hard:
-
-
-
-## 知识点5：树（tree）
-
-### Easy：
-
-
 
 ### Normal:
 
